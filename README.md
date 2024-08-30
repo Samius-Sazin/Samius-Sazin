@@ -1,6 +1,25 @@
-## Hi there 👋
+## 🛠️ Languages and Tools
 
--- Languages: C, C++, JAVA, JavaScript, PYTHON
--- Skills: Problem Solving, Data Structure and Algorithms, Object Oriented Programming
--- Web Development: HTML, CSS, JS, ReactJS, NextJS, Nodejs
--- Database: MySQL, MongoDB
+### Languages:
+- C
+- C++
+- Java
+- JavaScript
+- Python
+
+### Skills:
+- Problem Solving
+- Data Structures and Algorithms
+- Object-Oriented Programming
+
+### Web Development:
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Next.js
+- Node.js
+
+### Database:
+- MySQL
+- MongoDB

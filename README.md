@@ -5,7 +5,7 @@ Skills: Problem Solving, Data Structure and Algorithms, Object Oriented Programm
 Web Development: HTML, CSS, JS, ReactJS, NextJS, Nodejs
 Database: MySQL, MongoDB
 
-<!--
+
 **Samius-Sazin/Samius-Sazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
